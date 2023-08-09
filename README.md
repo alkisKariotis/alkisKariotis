@@ -18,5 +18,7 @@ I'm deeply committed to utilizing data to create value and effectively market to
 I'm always excited to connect, collaborate, and share insights. Feel free to reach out to me:
 
 GitHub: @alkisKariotis
+
 LinkedIn: [Alkiviadis Kariotis](https://www.linkedin.com/in/alkiviadiskariotis/)https://www.linkedin.com/in/alkiviadiskariotis/
+
 Email: alkis.kariotis@gmail.com
