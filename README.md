@@ -4,7 +4,7 @@ _**Alkiviadis Kariotis**_
 
 👋 Hi, I'm Alkiviadis Kariotis, and welcome to my GitHub profile! 
 I'm a passionate Business Analyst with a strong background in Data Analytics,
-Data Science, and Marketing Strategy. I thrive on driving business growth through strategic thinking and hands-on experience.
+Data Science, and Marketing Strategy.
 
 **About Me**
 
